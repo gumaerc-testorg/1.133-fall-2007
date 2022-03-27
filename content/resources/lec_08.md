@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 050c740b-24e0-9d72-fac3-d18eafb8f4d6
 resourcetype: Document
 title: Project Evaluation 3
 uid: c18bf449-f378-5628-ab43-eec4bbc1cb75

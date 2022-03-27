@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 26f2472a-e586-03d4-6cec-cb9c0566cce5
 resourcetype: Document
 title: 'Assignment 5: Network Scheduling'
 uid: e4123c01-4ab8-b58b-f8cb-a23ac5497930

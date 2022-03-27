@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 850092ad-8107-bd54-b1ab-50571d058dbf
 resourcetype: Document
 title: Note on Equivalence of Cash Flows
 uid: b5d94d26-056c-f875-e371-3c655ea06894

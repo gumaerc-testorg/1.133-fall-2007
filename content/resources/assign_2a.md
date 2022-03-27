@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 26f2472a-e586-03d4-6cec-cb9c0566cce5
 resourcetype: Other
 title: 'Assignment 2a Spreadsheet '
 uid: 270f2cbc-75dd-a420-352e-b529e95259b8

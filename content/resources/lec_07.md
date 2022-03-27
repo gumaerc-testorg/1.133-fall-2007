@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 050c740b-24e0-9d72-fac3-d18eafb8f4d6
 resourcetype: Document
 title: Project management 1
 uid: d5c5d351-a621-ba8a-42f2-6a5a3fd8e008

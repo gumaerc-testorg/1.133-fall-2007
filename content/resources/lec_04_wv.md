@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 050c740b-24e0-9d72-fac3-d18eafb8f4d6
 resourcetype: Document
 title: "Getting Work \u2013 A Large Firm Perspective"
 uid: 049bacd5-9b15-a9fb-eee7-1f2e9359ae13

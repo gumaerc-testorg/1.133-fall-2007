@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 26f2472a-e586-03d4-6cec-cb9c0566cce5
 resourcetype: Document
 title: 'Assignment 3: Chase an Engineer'
 uid: d35a49d9-eceb-213c-d3da-5b560e0d4982
