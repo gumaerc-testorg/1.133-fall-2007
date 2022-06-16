@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides study materials to supplement the lecture notes.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -11,13 +12,13 @@ Lecture 3
 
 The four notes in this section are courtesy of Carl Martland, and are used with permission.
 
-Notes on Project Evaluation ([PDF]({{< baseurl >}}/resources/proj_eval))
+Notes on Project Evaluation ({{% resource_link 923cee27-4305-78fa-c8a9-dac9b56ef8ad "PDF" %}})
 
-Notes on Equivalence ([PDF]({{< baseurl >}}/resources/equivalence))
+Notes on Equivalence ({{% resource_link b5d94d26-056c-f875-e371-3c655ea06894 "PDF" %}})
 
-Notes on Risk and Uncertainties ([PDF]({{< baseurl >}}/resources/risks))
+Notes on Risk and Uncertainties ({{% resource_link a123c34f-e029-d4ae-19f8-48b1dfc47a05 "PDF" %}})
 
-Notes on Infrastructure Costs ([PDF]({{< baseurl >}}/resources/inf_costs))
+Notes on Infrastructure Costs ({{% resource_link e2f9b653-1746-821e-5d77-95d2d7e108a9 "PDF" %}})
 
 Sullivan, William G., Elin M. Wicks, and James T. Luxhoj. _Engineering Economy_. 12th ed. New York, NY: Prentice Hall, 1995. Table 3-3, Table 3-4, Table 3-6, and Table C-11 and Spreadsheet Applications, p. 183.
 
