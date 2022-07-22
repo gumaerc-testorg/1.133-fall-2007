@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section includes assignment instructions, as well as an example
+  of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 26f2472a-e586-03d4-6cec-cb9c0566cce5
 ---
@@ -74,9 +79,9 @@ b) Financing a skyscraper
 {{< tdopen >}}
 
 
-Assignment 2a spreadsheet ([XLS]({{< baseurl >}}/resources/assign_2a))
+Assignment 2a spreadsheet ({{% resource_link 270f2cbc-75dd-a420-352e-b529e95259b8 "XLS" %}})
 
-Assignment 2b ([PDF]({{< baseurl >}}/resources/assign_2b))
+Assignment 2b ({{% resource_link 736c2ade-7ec5-069e-45c5-af9647844164 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -112,7 +117,7 @@ d) Class discussion
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign_3))
+({{% resource_link d35a49d9-eceb-213c-d3da-5b560e0d4982 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 L4
@@ -180,7 +185,7 @@ b) Bridge construction: group presentation
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign_5))
+({{% resource_link e4123c01-4ab8-b58b-f8cb-a23ac5497930 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 L7
@@ -204,7 +209,7 @@ b) L11
 Profile of an industry company
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign_6))
+({{% resource_link e51f1480-f3d3-adae-2cc7-d381d1444067 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 L12
@@ -222,7 +227,7 @@ L15
 Professional ethics debates
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign_7))
+({{% resource_link 92f28a76-9197-ccd5-5b1a-4ac9100e9ebf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 L18
@@ -256,4 +261,4 @@ L20
 Student Example Work
 --------------------
 
-Profile an industry company: Jones & Stokes, courtesy of Percy Link, used with permission. ([PDF]({{< baseurl >}}/resources/percy_link))
+Profile an industry company: Jones & Stokes, courtesy of Percy Link, used with permission. ({{% resource_link 0b3c072f-828c-2f8b-4596-7854fcce95fc "PDF" %}})
