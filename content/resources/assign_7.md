@@ -6,6 +6,7 @@ file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Assignment 7
 uid: 92f28a76-9197-ccd5-5b1a-4ac9100e9ebf
 ---
 Instructions for a debate assignment on four case studies relating to professional ethics.
-

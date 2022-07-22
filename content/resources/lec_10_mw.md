@@ -6,6 +6,7 @@ file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Interviewing Basics
 uid: f8cc967b-e63a-004b-8030-0bc7a40bb880
 ---
 Lecture presentation on interviewing basics from a human resources perspective by guest lecturer M. Wiseheart.
-

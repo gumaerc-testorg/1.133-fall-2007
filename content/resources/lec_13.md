@@ -6,6 +6,7 @@ file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Strategic Management Issues
 uid: 7c00a767-9345-6009-fb2a-eaa4d46a870d
 ---
 Lecture presentation on strategic management issues in the engineering and construction industry by guest lecturer C. Helliwell.
-

@@ -6,6 +6,7 @@ file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Subject Introduction
 uid: 48b605c8-faaa-8833-14a1-361bec6c544b
 ---
 Lecture presentation with an introduction to the subject and overview of the course.
-

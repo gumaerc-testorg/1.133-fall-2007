@@ -6,6 +6,7 @@ file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fal
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Assignment 2a Spreadsheet '
 uid: 270f2cbc-75dd-a420-352e-b529e95259b8
 ---
 Supplementary spreadsheet for an assignment to profile a civil and environmental engineering company.
-

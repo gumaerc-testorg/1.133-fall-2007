@@ -5,6 +5,7 @@ file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Project management 2
 uid: e2c051cc-81db-745d-4c2f-7468c9bcfa8e
 ---
 Lecture presentation on project management by guest lecturer Chu E. Ho.
-

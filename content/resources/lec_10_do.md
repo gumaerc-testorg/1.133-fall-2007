@@ -5,6 +5,7 @@ file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Interviewing Skills
 uid: 97d7d153-fde9-2bf1-8a58-ffa258f2b86f
 ---
 Lecture presentation on interviewing skills by guest lecturer Dick Orton.
-

@@ -5,6 +5,7 @@ file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Assignment 5: Network Scheduling'
 uid: e4123c01-4ab8-b58b-f8cb-a23ac5497930
 ---
 Assignment on network scheduling.
-

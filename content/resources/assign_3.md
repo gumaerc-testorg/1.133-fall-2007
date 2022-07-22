@@ -6,6 +6,7 @@ file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Assignment 3: Chase an Engineer'
 uid: d35a49d9-eceb-213c-d3da-5b560e0d4982
 ---
 Assignment to observe an engineer in order to obtain a better understanding of engineering practice and the knowledge and skills that s/he uses on the job.
-
