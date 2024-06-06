@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment on network scheduling.
 file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/e4123c014ab8b58bf8cba23ac5497930_assign_5.pdf
+file_size: 116802
 file_type: application/pdf
 learning_resource_types:
 - Assignments
