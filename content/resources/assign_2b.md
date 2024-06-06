@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment on financing a civil and environmental engineering project.
 file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/736c2ade7ec5069e45c5af9647844164_assign_2b.pdf
+file_size: 237527
 file_type: application/pdf
 learning_resource_types:
 - Assignments
