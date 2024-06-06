@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on project management by guest lecturer Chu E. Ho.
 file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/d5c5d351a621ba8a42f26a5a3fd8e008_lec_07.pdf
+file_size: 509059
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

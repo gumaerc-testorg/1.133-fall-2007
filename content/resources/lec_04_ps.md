@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on getting work from the perspective of a small
   firm by P. Shanahan.
 file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/d95edc3995b83457aff454d00dcfda2e_lec_04_ps.pdf
+file_size: 197749
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
