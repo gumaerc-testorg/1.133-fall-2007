@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on professional ethics and American Society of Civil
   Engineers fundamental principles by Eric Adams.
-file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/403bffd0d2d0112850aac7fb2ca28557_lec_18.pdf
+file: /ol-ocw-studio-app/courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/403bffd0d2d0112850aac7fb2ca28557_lec_18.pdf
 file_size: 154644
 file_type: application/pdf
 learning_resource_types:
