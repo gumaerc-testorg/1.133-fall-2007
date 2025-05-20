@@ -2,7 +2,7 @@
 content_type: resource
 description: Supplementary lecture notes on the equivalence of cash flows by Carl
   D. Martland.
-file: /ol-ocw-studio-app/courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/b5d94d26056cf875e3713c655ea06894_equivalence.pdf
+file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/b5d94d26056cf875e3713c655ea06894_equivalence.pdf
 file_size: 188889
 file_type: application/pdf
 learning_resource_types: []

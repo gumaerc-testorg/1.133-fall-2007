@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student assignment to profile an industry company: Jones
   & Stokes, courtesy of Percy Link.'
-file: /ol-ocw-studio-app/courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/0b3c072f828c2f8b45967854fcce95fc_percy_link.pdf
+file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/0b3c072f828c2f8b45967854fcce95fc_percy_link.pdf
 file_size: 94593
 file_type: application/pdf
 learning_resource_types:
