@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on technical writing by Eric Adams, Debbie Levey,
   and James Paradis.
-file: /ol-ocw-studio-app/courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/4654d1684b5dea36329f659f3f5bf8f6_lec_02.pdf
+file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/4654d1684b5dea36329f659f3f5bf8f6_lec_02.pdf
 file_size: 127578
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to observe an engineer in order to obtain a better understanding
   of engineering practice and the knowledge and skills that s/he uses on the job.
-file: /ol-ocw-studio-app/courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/d35a49d9eceb213cd3da5b560e0d4982_assign_3.pdf
+file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/d35a49d9eceb213cd3da5b560e0d4982_assign_3.pdf
 file_size: 151689
 file_type: application/pdf
 learning_resource_types:
