@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on interviewing skills by guest lecturer Dick Orton.
-file: /ol-ocw-studio-app/courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/97d7d153fde92bf18a58ffa258f2b86f_lec_10_do.pdf
+file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/97d7d153fde92bf18a58ffa258f2b86f_lec_10_do.pdf
 file_size: 102835
 file_type: application/pdf
 learning_resource_types:
