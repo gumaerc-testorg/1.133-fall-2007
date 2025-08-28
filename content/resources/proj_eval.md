@@ -3,7 +3,7 @@ content_type: resource
 description: 'Supplementary lecture notes on the factors that affect the discount
   rate used by different participants in evaluating a major civil and environmental
   engineering project by Carl D. Martland. '
-file: /courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/923cee27430578fac8a9dac9b56ef8ad_proj_eval.pdf
+file: /ol-ocw-studio-app/courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/923cee27430578fac8a9dac9b56ef8ad_proj_eval.pdf
 file_size: 192991
 file_type: application/pdf
 learning_resource_types: []
