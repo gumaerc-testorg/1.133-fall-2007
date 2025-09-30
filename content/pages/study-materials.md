@@ -25,9 +25,9 @@ Sullivan, William G., Elin M. Wicks, and James T. Luxhoj. _Engineering Economy_.
 Lecture 18
 ----------
 
-"[Nine Basic Steps to Personal Ethical Decision Making](http://www.depts.ttu.edu/murdoughcenter/products/resources/steps-to-personal-ethical-decision-making.php)."
+"{{% resource_link "307be056-9b21-4c3f-a86e-7549237689c3" "Nine Basic Steps to Personal Ethical Decision Making" %}}."
 
 Clean Water for 1 Billion People
 --------------------------------
 
-[Global Water and Sanitation Projects](http://web.mit.edu/watsan/index.html)
+{{% resource_link "f7194e74-db47-46c4-b3aa-d556e20299cd" "Global Water and Sanitation Projects" %}}
